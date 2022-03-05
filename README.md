@@ -1,6 +1,8 @@
 # DS_S3
 Semester 3 Data Structure Works..
 
+Note : Experient 1,2,3,4 were completed and certified at Lab.
+
 
 ### Experiment 5.
 
