@@ -6,52 +6,52 @@ Note : Experient 1,2,3,4 were completed and certified at Lab.
 
 ### Experiment 5.
 
-[poly_add_ll.c](https://github.com/akkupy/DS_S3/blob/main/Exp_5/poly_add_ll.c) - Representation of polynomial using linked list - Polynomial addition 
+[poly_add_ll](https://github.com/akkupy/DS_S3/blob/main/Exp_5) - Representation of polynomial using linked list - Polynomial addition 
 
 
-[poly_multi_ll.c](https://github.com/akkupy/DS_S3/blob/main/Exp_5/poly_multi_ll.c) - Representation of polynomial using linked list - Polynomial multiplication.
+[poly_multi_ll](https://github.com/akkupy/DS_S3/blob/main/Exp_5) - Representation of polynomial using linked list - Polynomial multiplication.
 
 
 
 ### Experiment 6.
 
-[stack_array.c](https://github.com/akkupy/DS_S3/blob/main/Exp_6/stack_array.c) - Implementation of stack and multiple stack using 1D array.
+[stack_array](https://github.com/akkupy/DS_S3/blob/main/Exp_6) - Implementation of stack and multiple stack using 1D array.
 
 
 ### Experiment 7.
 
-[stack_linkedlist.c](https://github.com/akkupy/DS_S3/blob/main/Exp_7/stack_linkedlist.c) - Implementation of stack using linked list
+[stack_linkedlist](https://github.com/akkupy/DS_S3/blob/main/Exp_7) - Implementation of stack using linked list
 
 ### Experiment 8.
 
-[infix_postfix.c](https://github.com/akkupy/DS_S3/blob/main/Exp_8/infix_postfix.c) - Infix to Postfix Conversion Using Stack
+[infix_postfix](https://github.com/akkupy/DS_S3/blob/main/Exp_8) - Infix to Postfix Conversion Using Stack
 
 
 ### Experiment 9.
 
-[postfix_eval.c](https://github.com/akkupy/DS_S3/blob/main/Exp_9/postfix_eval.c) - Evaluation of postfix expression using stack.
+[postfix_eval](https://github.com/akkupy/DS_S3/blob/main/Exp_9) - Evaluation of postfix expression using stack.
 
 ### Experiment 10.
 
-[queue_array.c](https://github.com/akkupy/DS_S3/blob/main/Exp_10/queue_array.c) - Implementation of queue using array.
+[queue_array](https://github.com/akkupy/DS_S3/blob/main/Exp_10) - Implementation of queue using array.
 
 
-[queue_linked_list.c](https://github.com/akkupy/DS_S3/blob/main/Exp_10/queue_linked_list.c) - Implementation of queue using linked list.
+[queue_linked_list](https://github.com/akkupy/DS_S3/blob/main/Exp_10) - Implementation of queue using linked list.
 
 ### Experiment 11.
 
-[quick_sort.c](https://github.com/akkupy/DS_S3/blob/main/Exp_11/quick_sort.c) - Implementation of Quick sort using recursive algorithm.
+[quick_sort](https://github.com/akkupy/DS_S3/blob/main/Exp_11) - Implementation of Quick sort using recursive algorithm.
 
 ### Experiment 12.
 
-[merge_sort.c](https://github.com/akkupy/DS_S3/blob/main/Exp_12/merge_sort.c) - Implementation of Merge sort using recursive algorithm.
+[merge_sort](https://github.com/akkupy/DS_S3/blob/main/Exp_12) - Implementation of Merge sort using recursive algorithm.
 
 ### Experiment 13.
 
-[quick_sort.c](https://github.com/akkupy/DS_S3/blob/main/Exp_13/quick_sort.c) - Implementation of Quick sort using non-recursive algorithm.
+[quick_sort](https://github.com/akkupy/DS_S3/blob/main/Exp_13) - Implementation of Quick sort using non-recursive algorithm.
 
-[merge_sort.c](https://github.com/akkupy/DS_S3/blob/main/Exp_13/merge_sort.c) - Implementation of Merge sort using non-recursive algorithm.
+[merge_sort](https://github.com/akkupy/DS_S3/blob/main/Exp_13) - Implementation of Merge sort using non-recursive algorithm.
 
 ### Experiment 14.
 
-[heap_sort.c](https://github.com/akkupy/DS_S3/blob/main/Exp_14/heap_sort.c) - Implementation of heap sort algorithm.
+[heap_sort](https://github.com/akkupy/DS_S3/blob/main/Exp_14) - Implementation of heap sort algorithm.
