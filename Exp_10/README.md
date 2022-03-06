@@ -34,8 +34,61 @@ The deleted item is 60
 
 ```  
 
-[name.c](https://github.com/akkupy/DS_S3/blob/main/Exp_10/name.c) - Implementation of queue using linked list.
+[queue_linked_list.c](https://github.com/akkupy/DS_S3/blob/main/Exp_10/queue_linked_list.c) - Implementation of queue using linked list.
 ```
 
+1. Insert 
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 1
+
+value to be inserted:50
+
+1. Insert 
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 1
+
+value to be inserted:51
+
+1. Insert
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 3
+50 --> 51
+1. Insert
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 2
+
+1. Insert
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 3
+51
+1. Insert
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 1
+
+value to be inserted:52
+
+1. Insert
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 3
+51 --> 52
+1. Insert
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 4
 
 ```  
